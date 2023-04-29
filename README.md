@@ -4,7 +4,7 @@
 
 ## Portfolio site: [pratikjade.github.io](https://pratikjade.github.io/)
 
-### ☎️ Contact:
+## ☎️ Contact:
 
 📧 Email: pratikjade21@gmail.com | pratik.jade.cs@ghrcem.raisoni.net
 
